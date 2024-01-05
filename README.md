@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sharad Kumar Kushwah
-- 👀 I love making websites.
-- 🌱 I’m currently working on web development projects.
-- 🤝 I’m looking to collaborate on any backend projects.
+- 👋 Hi, I’m Sharad Kushwah
+- 👀 I love making web pages.
+- 🌱 I’m currently working on Full stack development.
+- 🤝 I’m looking to collaborate on any Full stack Project.
 - 📫 How to reach me [Sharad Kushwah](mailto:sharadkushwah10@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
@@ -10,8 +10,8 @@
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sharad-kushwah-13663621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad-kushwah-13663621a" height="30" width="40" margin="50" /></a>
-<a href="https://codeforces.com/profile/__Sharad__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__Sharad__" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sharad-kushwah-13663621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad-kushwah-13663621a" height="30" width="40" /></a><space><space>
+<a href="https://codeforces.com/profile/__Sharad__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__Sharad__" height="30" width="40" /></a><space><space>
 <a href="https://codechef.com/users/skush_10" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="skush_10" height="30" width="40" /></a>
 </p>
 
