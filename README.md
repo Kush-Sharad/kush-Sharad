@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sharad Kumar Kushwah
-- 👀 I love makinng websites.
+- 👀 I love making websites.
 - 🌱 I’m currently working on web development projects.
 - 🤝 I’m looking to collaborate on any backend projects.
 - 📫 How to reach me [Sharad Kushwah](mailto:sharadkushwah10@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
