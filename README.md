@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kush-Sharad&label=Profile%20views&color=0e75b6&style=flat" alt="kush-Sharad" /> </p>
 
-
+<h3 align="left">Profiles:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sharad-kushwah-13663621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad-kushwah-13663621a" height="30" width="40" /></a>
 &nbsp
@@ -49,4 +49,4 @@
 </p>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kush-Sharad&show_icons=true&locale=en&layout=compact" alt="Kush-Sharad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kush-Sharad&show_icons=true&locale=en&layout=compact" alt="kush-Sharad" /></p>
