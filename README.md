@@ -11,8 +11,11 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sharad-kushwah-13663621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad-kushwah-13663621a" height="30" width="40" /></a>
-<a href="https://kaggle.com/sayanbiswas023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayanbiswas023" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sayanbiswas023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sayanbiswas023" height="30" width="40" /></a>
+
+<a href="https://codeforces.com/profile/__Sharad__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__Sharad__" height="30" width="40" /></a>
+</p>
+
+<a href="https://codechef.com/profile/skush_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="skush_10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
