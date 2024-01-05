@@ -10,7 +10,7 @@
 
 
 <p align="left">
-<a href="https://linkedin.com/in/sayan-biswas-a697481b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-biswas-a697481b8" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sharad-kushwah-13663621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad-kushwah-13663621a" height="30" width="40" /></a>
 <a href="https://kaggle.com/sayanbiswas023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayanbiswas023" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sayanbiswas023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sayanbiswas023" height="30" width="40" /></a>
 </p>
