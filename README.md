@@ -42,6 +42,9 @@
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> 
 &nbsp
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/express.svg" alt="express" width="40" height="40"/> </a> 
+&nbsp
+<a target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
+</p>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kush-Sharad&show_icons=true&locale=en&layout=compact" alt="Kush-Sharad" /></p>
