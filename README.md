@@ -1,7 +1,3 @@
-
-- 👋 Hi, I’m Sayan Biswas
-- 👀 I’m interested in Machine Learning, Deep Learning, AI and a bit of Robotics.
-
 - 👋 Hi, I’m Sharad Kumar Kushwah
 - 👀 I love makinng websites.
 - 🌱 I’m currently working on web development projects.
