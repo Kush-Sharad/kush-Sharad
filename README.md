@@ -10,8 +10,12 @@
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sharad-kushwah-13663621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad-kushwah-13663621a" height="30" width="40" /></a><space><space>
-<a href="https://codeforces.com/profile/__Sharad__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__Sharad__" height="30" width="40" /></a><space><space>
+<space>
+<a href="https://www.linkedin.com/in/sharad-kushwah-13663621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad-kushwah-13663621a" height="30" width="40" /></a>
+</space>
+<space>
+<a href="https://codeforces.com/profile/__Sharad__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__Sharad__" height="30" width="40" /></a>
+</space>
 <a href="https://codechef.com/users/skush_10" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="skush_10" height="30" width="40" /></a>
 </p>
 
@@ -30,13 +34,15 @@
 
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="40" height="40"/> </a> 
 
-<a target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/javasrcipt.svg" alt="javasript" width="40" height="40"/> </a> 
+<a target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javasript" width="40" height="40"/> </a> 
 
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="reactjs" width="40" height="40"/> </a> 
 
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/tailwind.svg" alt="tailwind" width="40" height="40"/> </a> 
 
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> 
+
+<a target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/express.svg" alt="express" width="40" height="40"/> </a> 
 
 </p>
 
